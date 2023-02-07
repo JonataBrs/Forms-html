@@ -1,4 +1,4 @@
-<h1 align="center"> Habits </h1>
+<h1 align="center"> Simple Form </h1>
 
 <p align="center">
  <br/>
